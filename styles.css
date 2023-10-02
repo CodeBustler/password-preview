@@ -58,11 +58,6 @@ footer {
 
 @media only screen and (max-width: 500px) {
   .container {
-    width: 100%;
-    max-width: 400px;
     border: none;
-    border-radius: 10px;
-    margin: 20px auto;
-    padding: 10px 30px 40px 30px;
   }
 } ;
